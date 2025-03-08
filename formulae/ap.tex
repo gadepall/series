@@ -1,0 +1,61 @@
+\begin{enumerate}[label=\thesubsection.\arabic*,ref=\thesubsection.\theenumi]
+	\item Find the sum
+\begin{align}
+	\label{eq:ap-sum10}
+	S = 1 + 2 + \dots + 10
+\end{align}
+\solution Reversing the sum in
+	\eqref{eq:ap-sum10}
+	as
+\begin{align}
+	\label{eq:ap-sum10-rev}
+	S = 10 + 9 + \dots + 1
+\end{align}
+and adding 
+	\eqref{eq:ap-sum10}
+	and
+	\eqref{eq:ap-sum10-rev},
+\begin{align}
+	\label{eq:ap-sum10-add}
+	2S &= 11 + 11 + \dots + 11 \quad 10 \text{ times}
+	\\
+	\implies S &= \frac{11 \times 10}{2} = 55
+\end{align}
+\item The sum of the first $n$ natural numbers is
+\begin{align}
+	S_n &= \sum_{k=1}^{n}k = 1+ 2 + \dots + n
+	\\
+	&= \frac{n\brak{n+1}}{2}
+	\label{eq:ap-sumn}
+\end{align}
+\item The $n$th term of an arithmetic progression (AP) is
+\begin{align}
+	\label{eq:ap-nthterm}
+	a_n = a_0 + nd, \quad n = 0, 1, \dots
+\end{align}
+\item The sum to $n+1$ terms of an AP is given by
+\begin{align}
+	\label{eq:ap-nsum}
+	S_n &= \sum_{k=0}^{n}a_k = \frac{n+1}{2}\sbrak{a_0 + \frac{dn}{2}}
+\end{align}
+\solution
+From
+	\eqref{eq:ap-nthterm}
+	and
+	\eqref{eq:ap-nsum},
+\begin{align}
+	\label{eq:ap-nthsum}
+	S_n &= \sum_{k=0}^{n}a_k = 
+\sum_{k=0}^{n}
+	 \brak{a_0 + kd} 
+	 \\
+	 &= 
+\sum_{k=0}^{n}a_0 + 
+d\sum_{k=1}^{n}k
+	  = \brak{n+1}a_0 + d\frac{n\brak{n+1}}{2}
+\end{align}
+upon substituting from
+	\eqref{eq:ap-sumn}, yielding
+	\eqref{eq:ap-nthsum}
+	upon simplification.
+\end{enumerate}
