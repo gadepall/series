@@ -1,9 +1,9 @@
 \contentsline {section}{\numberline {1}Arithmetic Progression}{4}{section.1}%
 \contentsline {subsection}{\numberline {1.1}Formulae}{4}{subsection.1.1}%
 \contentsline {subsection}{\numberline {1.2}NCERT}{4}{subsection.1.2}%
-\contentsline {section}{\numberline {2}Geometric Progression}{14}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Formulae}{14}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}NCERT}{14}{subsection.2.2}%
-\contentsline {section}{\numberline {3}$Z$ Transform}{17}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Formulae}{17}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}NCERT}{17}{subsection.3.2}%
+\contentsline {section}{\numberline {2}Geometric Progression}{12}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Formulae}{12}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}NCERT}{12}{subsection.2.2}%
+\contentsline {section}{\numberline {3}$Z$ Transform}{16}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Formulae}{16}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}NCERT}{16}{subsection.3.2}%
