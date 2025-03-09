@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Termux) (preloaded format=pdflatex 2024.4.5)  9 MAR 2025 17:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Termux) (preloaded format=pdflatex 2024.4.5)  9 MAR 2025 17:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1823,7 +1823,7 @@ Package hyperref Info: Link coloring OFF on input line 20.
 \openout5 = `main.out'.
 
 \c@lstlisting=\count397
-<figs/logo.jpg, id=67, 2537.48pt x 2047.65pt>
+<figs/logo.jpg, id=71, 2537.48pt x 2047.65pt>
 File: figs/logo.jpg Graphic file (type jpg)
 <use figs/logo.jpg>
 Package pdftex.def Info: figs/logo.jpg  used on input line 47.
@@ -1875,7 +1875,7 @@ File: utxsyc.fd 2000/12/15 v3.1
  [3] (./formulae/ap.tex) (./ncert/ap.tex [4
 
 ] [5] [6] [7]
-<figs/ap/fig.png, id=247, 476.78125pt x 352.31625pt>
+<figs/ap/fig.png, id=252, 476.78125pt x 352.31625pt>
 File: figs/ap/fig.png Graphic file (type png)
 <use figs/ap/fig.png>
 Package pdftex.def Info: figs/ap/fig.png  used on input line 226.
@@ -1884,12 +1884,12 @@ Package pdftex.def Info: figs/ap/fig.png  used on input line 226.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [8]
-<figs/ap/fig1.png, id=281, 675.52374pt x 152.57pt>
+<figs/ap/fig1.png, id=286, 675.52374pt x 152.57pt>
 File: figs/ap/fig1.png Graphic file (type png)
 <use figs/ap/fig1.png>
 Package pdftex.def Info: figs/ap/fig1.png  used on input line 236.
 (pdftex.def)             Requested size: 273.14647pt x 61.69273pt.
-<figs/ap/fig3.png, id=283, 976.64874pt x 181.67876pt>
+<figs/ap/fig3.png, id=288, 976.64874pt x 181.67876pt>
 File: figs/ap/fig3.png Graphic file (type png)
 <use figs/ap/fig3.png>
 Package pdftex.def Info: figs/ap/fig3.png  used on input line 244.
@@ -1898,7 +1898,7 @@ Package pdftex.def Info: figs/ap/fig3.png  used on input line 244.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [9 <./figs/ap/fig.png> <./figs/ap/fig1.png>]
-<figs/ap/fig5.png, id=296, 536.0025pt x 240.9pt>
+<figs/ap/fig5.png, id=301, 536.0025pt x 240.9pt>
 File: figs/ap/fig5.png Graphic file (type png)
 <use figs/ap/fig5.png>
 Package pdftex.def Info: figs/ap/fig5.png  used on input line 259.
@@ -1907,7 +1907,13 @@ Package pdftex.def Info: figs/ap/fig5.png  used on input line 259.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [11])
-(./ncert/gp.tex [12]
+(./cbse/ap.tex [12]
+<figs/ap/ap.jpg, id=371, 683.55376pt x 148.555pt>
+File: figs/ap/ap.jpg Graphic file (type jpg)
+<use figs/ap/ap.jpg>
+Package pdftex.def Info: figs/ap/ap.jpg  used on input line 45.
+(pdftex.def)             Requested size: 364.1953pt x 79.15085pt.
+ [13 <./figs/ap/ap.jpg>]) (./ncert/gp.tex [14]
 Underfull \hbox (badness 7722) in paragraph at lines 33--34
 []\OT1/txr/m/n/10 Show that the prod-ucts of the cor-re-spond-ing terms of the 
 se-quences
@@ -1916,41 +1922,41 @@ se-quences
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [13]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [14]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [15]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [16]
 Underfull \hbox (badness 3690) in paragraph at lines 93--94
 []\OT1/txr/m/n/10 If the $\OML/txmi/m/it/10 p[]; q[]; r[]$ \OT1/txr/m/n/10 and 
 $\OML/txmi/m/it/10 s[]$ \OT1/txr/m/n/10 terms of an AP are in GP, then show tha
 t
  []
 
-)
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [17])
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 95.
+(hyperref)                removing `math shift' on input line 97.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 95.
+(hyperref)                removing `math shift' on input line 97.
 
-(./ncert/zt.tex [16]) [17] (./main.aux)
+(./ncert/zt.tex) [18] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 956A58733347F423021D48CE5E30A853;945.
+(rerunfilecheck)             Checksum: F5DAC777C73D3B62A70FD3E0F33304BE;1023.
  ) 
 Here is how much of TeX's memory you used:
- 53230 strings out of 474104
- 1276792 string characters out of 5729886
+ 53279 strings out of 474104
+ 1277380 string characters out of 5729886
  1950493 words of memory out of 5000000
- 74474 multiletter control sequences out of 15000+600000
+ 74488 multiletter control sequences out of 15000+600000
  628063 words of font info for 176 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  109i,11n,109p,1194b,1224s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1967,10 +1973,10 @@ exlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></data/data/com.termux/
 files/usr/share/texlive/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></data
 /data/com.termux/files/usr/share/texlive/2024/texmf-dist/fonts/type1/urw/times/
 utmri8a.pfb>
-Output written on main.pdf (17 pages, 750420 bytes).
+Output written on main.pdf (18 pages, 771012 bytes).
 PDF statistics:
- 597 PDF objects out of 1000 (max. 8388607)
- 527 compressed objects within 6 object streams
- 326 named destinations out of 1000 (max. 500000)
- 206 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 644 PDF objects out of 1000 (max. 8388607)
+ 572 compressed objects within 6 object streams
+ 358 named destinations out of 1000 (max. 500000)
+ 219 words of extra memory for PDF output out of 10000 (max. 10000000)
 
