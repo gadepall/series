@@ -1,1 +1,1 @@
-# discrete
+# Arithmetic and Geometric Progression
