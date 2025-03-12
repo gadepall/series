@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Termux) (preloaded format=pdflatex 2024.4.5)  11 MAR 2025 09:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Termux) (preloaded format=pdflatex 2024.4.5)  12 MAR 2025 11:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1925,8 +1925,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [15]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [16])
-(./ncert/gp.tex [17]
+ [16]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [17]
+[18] [19]) (./ncert/gp.tex [20]
 Underfull \hbox (badness 7722) in paragraph at lines 33--34
 []\OT1/txr/m/n/10 Show that the prod-ucts of the cor-re-spond-ing terms of the 
 se-quences
@@ -1935,20 +1938,20 @@ se-quences
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [18]
+ [21]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [19]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [20]
+ [22]
 Underfull \hbox (badness 3690) in paragraph at lines 93--94
 []\OT1/txr/m/n/10 If the $\OML/txmi/m/it/10 p[]; q[]; r[]$ \OT1/txr/m/n/10 and 
 $\OML/txmi/m/it/10 s[]$ \OT1/txr/m/n/10 terms of an AP are in GP, then show tha
 t
  []
 
-)
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [23])
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 97.
@@ -1957,7 +1960,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 97.
 
-(./ncert/zt.tex [21]) [22] (./main.aux)
+(./ncert/zt.tex [24]) [25] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
@@ -1966,8 +1969,8 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: F5DAC777C73D3B62A70FD3E0F33304BE;1023.
  ) 
 Here is how much of TeX's memory you used:
- 53368 strings out of 474104
- 1278251 string characters out of 5729886
+ 53428 strings out of 474104
+ 1278728 string characters out of 5729886
  1950493 words of memory out of 5000000
  74498 multiletter control sequences out of 15000+600000
  628063 words of font info for 176 fonts, out of 8000000 for 9000
@@ -1986,10 +1989,10 @@ exlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></data/data/com.termux/
 files/usr/share/texlive/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></data
 /data/com.termux/files/usr/share/texlive/2024/texmf-dist/fonts/type1/urw/times/
 utmri8a.pfb>
-Output written on main.pdf (22 pages, 949690 bytes).
+Output written on main.pdf (25 pages, 959045 bytes).
 PDF statistics:
- 756 PDF objects out of 1000 (max. 8388607)
- 677 compressed objects within 7 object streams
- 437 named destinations out of 1000 (max. 500000)
+ 838 PDF objects out of 1000 (max. 8388607)
+ 755 compressed objects within 8 object streams
+ 497 named destinations out of 1000 (max. 500000)
  224 words of extra memory for PDF output out of 10000 (max. 10000000)
 
