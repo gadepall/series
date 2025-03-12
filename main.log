@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Termux) (preloaded format=pdflatex 2024.4.5)  12 MAR 2025 11:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Termux) (preloaded format=pdflatex 2024.4.5)  12 MAR 2025 18:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1908,28 +1908,21 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [11])
 (./cbse/ap.tex [12]
-<figs/ap/ap.jpg, id=371, 683.55376pt x 148.555pt>
+<figs/ap/ap.jpg, id=375, 683.55376pt x 148.555pt>
 File: figs/ap/ap.jpg Graphic file (type jpg)
 <use figs/ap/ap.jpg>
-Package pdftex.def Info: figs/ap/ap.jpg  used on input line 45.
+Package pdftex.def Info: figs/ap/ap.jpg  used on input line 49.
 (pdftex.def)             Requested size: 364.1953pt x 79.15085pt.
- [13 <./figs/ap/ap.jpg>]
-<figs/ap/Plant.png, id=397, 1361.085pt x 358.33875pt>
+<figs/ap/Plant.png, id=377, 1361.085pt x 358.33875pt>
 File: figs/ap/Plant.png Graphic file (type png)
 <use figs/ap/Plant.png>
-Package pdftex.def Info: figs/ap/Plant.png  used on input line 71.
+Package pdftex.def Info: figs/ap/Plant.png  used on input line 73.
 (pdftex.def)             Requested size: 364.1953pt x 95.88336pt.
- [14 <./figs/ap/Plant.png>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [15]
+ [13 <./figs/ap/ap.jpg>] [14 <./figs/ap/Plant.png>] [15]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [16]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [17]
-[18] [19]) (./ncert/gp.tex [20]
+[17] [18]) (./ncert/gp.tex [19]
 Underfull \hbox (badness 7722) in paragraph at lines 33--34
 []\OT1/txr/m/n/10 Show that the prod-ucts of the cor-re-spond-ing terms of the 
 se-quences
@@ -1938,10 +1931,10 @@ se-quences
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [21]
+ [20]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [22]
+ [21]
 Underfull \hbox (badness 3690) in paragraph at lines 93--94
 []\OT1/txr/m/n/10 If the $\OML/txmi/m/it/10 p[]; q[]; r[]$ \OT1/txr/m/n/10 and 
 $\OML/txmi/m/it/10 s[]$ \OT1/txr/m/n/10 terms of an AP are in GP, then show tha
@@ -1951,7 +1944,7 @@ t
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [23])
+ [22])
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 97.
@@ -1960,7 +1953,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 97.
 
-(./ncert/zt.tex [24]) [25] (./main.aux)
+(./ncert/zt.tex) [23] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
@@ -1969,13 +1962,13 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: F5DAC777C73D3B62A70FD3E0F33304BE;1023.
  ) 
 Here is how much of TeX's memory you used:
- 53428 strings out of 474104
- 1278728 string characters out of 5729886
+ 53423 strings out of 474104
+ 1278644 string characters out of 5729886
  1950493 words of memory out of 5000000
- 74498 multiletter control sequences out of 15000+600000
+ 74496 multiletter control sequences out of 15000+600000
  628063 words of font info for 176 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 109i,11n,109p,1194b,1341s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 109i,11n,109p,1194b,1224s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </data/data/com.termux/files/usr/share/texlive/2024/texmf-dist/fonts/type1/pu
 blic/txfonts/rtxmi.pfb></data/data/com.termux/files/usr/share/texlive/2024/texm
 f-dist/fonts/type1/public/txfonts/rtxr.pfb></data/data/com.termux/files/usr/sha
@@ -1989,10 +1982,10 @@ exlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></data/data/com.termux/
 files/usr/share/texlive/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></data
 /data/com.termux/files/usr/share/texlive/2024/texmf-dist/fonts/type1/urw/times/
 utmri8a.pfb>
-Output written on main.pdf (25 pages, 959045 bytes).
+Output written on main.pdf (23 pages, 957884 bytes).
 PDF statistics:
- 838 PDF objects out of 1000 (max. 8388607)
- 755 compressed objects within 8 object streams
- 497 named destinations out of 1000 (max. 500000)
+ 828 PDF objects out of 1000 (max. 8388607)
+ 747 compressed objects within 8 object streams
+ 494 named destinations out of 1000 (max. 500000)
  224 words of extra memory for PDF output out of 10000 (max. 10000000)
 
