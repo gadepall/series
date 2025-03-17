@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Termux) (preloaded format=pdflatex 2024.4.5)  16 MAR 2025 22:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Termux) (preloaded format=pdflatex 2024.4.5)  17 MAR 2025 23:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1962,13 +1962,13 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 6FAE7C89A10CB4E8378F9F0DC3DD5E42;1242.
  ) 
 Here is how much of TeX's memory you used:
- 53795 strings out of 474104
- 1281801 string characters out of 5729886
+ 53801 strings out of 474104
+ 1281849 string characters out of 5729886
  1950493 words of memory out of 5000000
  74511 multiletter control sequences out of 15000+600000
  628063 words of font info for 176 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 109i,11n,109p,1194b,1224s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 109i,11n,109p,1194b,1286s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </data/data/com.termux/files/usr/share/texlive/2024/texmf-dist/fonts/type1/pu
 blic/txfonts/rtxmi.pfb></data/data/com.termux/files/usr/share/texlive/2024/texm
 f-dist/fonts/type1/public/txfonts/rtxr.pfb></data/data/com.termux/files/usr/sha
@@ -1982,10 +1982,10 @@ exlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></data/data/com.termux/
 files/usr/share/texlive/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></data
 /data/com.termux/files/usr/share/texlive/2024/texmf-dist/fonts/type1/urw/times/
 utmri8a.pfb>
-Output written on main.pdf (34 pages, 1001954 bytes).
+Output written on main.pdf (34 pages, 1003246 bytes).
 PDF statistics:
- 1300 PDF objects out of 1440 (max. 8388607)
- 1203 compressed objects within 13 object streams
- 844 named destinations out of 1000 (max. 500000)
+ 1307 PDF objects out of 1440 (max. 8388607)
+ 1210 compressed objects within 13 object streams
+ 850 named destinations out of 1000 (max. 500000)
  248 words of extra memory for PDF output out of 10000 (max. 10000000)
 
