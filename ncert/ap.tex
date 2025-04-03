@@ -56,11 +56,42 @@ If
 \item How many two-digit numbers are divisible by 3?
 \item Find the 11th term from the last term (towards the first term) of the
 AP : $10,  7,  4,  \dots,  - 62$.
+	\\
+	\solution Reversing the AP,
+\begin{align}
+	a_0 &= -62, d = 3, 
+	\\
+	\implies a_10&=-62+10\times 3 = -32
+\end{align}
+upon substituting in
+	\eqref{eq:ap-nthterm}.
 \item A sum of \rupee 1000 is invested at $8\%$ simple interest per year. Calculate the interest at the end of each year. Do these interests form an AP? If so,  find the interest at the end of 30 years making use of this fact.
 \item In a flower bed,  there are 23 rose plants in the first row,  21 in the
 second,  19 in the third,  and so on. There are 5 rose plants in the last row. How many rows are there in the flower bed?
 \item Find the sum of the first 22 terms of the AP : $8,  3,  -2,  \dots$
+	\\
+	\solution
+\begin{align}
+a_0 = 8, d = -5, n = 21
+\\
+\implies 
+	S_{21} = -979
+\end{align}
+upon substituting in 
+	\eqref{eq:ap-nsum}.
 \item If the sum of the first 14 terms of an AP is 1050 and its first term is 10,  find the 20th term.
+	\\
+	\solution
+	\begin{align}
+		S_{13} &= 1050, a_0 = 10, n = 13
+		\\
+		\implies 1050 &= 14\brak{10+\frac{13d}{2}}
+		\\
+		\text{or, } d&= 10
+		\\
+		\therefore
+		a_{19} &= 10+19d = 200
+	\end{align}
 \item How many terms of the AP : $24,  21,  18,  \dots$ must be taken so that their
 sum is 78?
 \item Find the sum of 
@@ -69,6 +100,16 @@ sum is 78?
 \item the first $n$ positive integers.
 \end{enumerate}
 \item Find the sum of first 24 terms of the list of numbers whose $n^{th}$ term is given by $a_n = 3 + 2n$
+	\\
+	\solution
+\begin{align}
+	\sum_{k=1}^{n}a_k &= \sum_{k=1}^{n}3 + \sum_{k=1}^{n}2k
+	\\
+	&=3n + 2\frac{n\brak{n+1}}{2} = n\brak{n+4}
+	\\
+	&= 672
+\end{align}
+upon substituting numerical values.
 \item A manufacturer of TV sets produced 600 sets in the third year and 700
 sets in the seventh year. Assuming that the production increases uniformly by a fixed number every year,  find 
 \begin{enumerate}
@@ -233,7 +274,7 @@ difference and $a_n$ the $n^{th}$ term of the AP.
 \item How many terms of the AP : $9,  17,  25,  \dots $ must be taken to give a sum of 636?
 \item The first term of an AP is 5,  the last term is 45 and the sum is 400. Find the number of terms and the common difference.
 \item The first and the last terms of an AP are 17 and 350 respectively. If the common difference is 9,  how many terms are there and what is their sum?
-\item Find the sum of first 22 terms of an AP in which d = 7 and 22nd term is 149.
+\item Find the sum of first 22 terms of an AP in which $d$ = 7 and $22^{nd}$ term is 149.
 \item Find the sum of first 51 terms of an AP whose second and third terms are 14 and 18 respectively.
 \item If the sum of first 7 terms of an AP is 49 and that of 17 terms is 289,  find the sum of first $n$ terms. 
 \item Show that $a_1 ,  a_2 ,  \dots,  a_n,  \dots$  form an AP where $a_n$ is defined as below 
@@ -347,7 +388,7 @@ $$\brak{q - r }a + \brak{r - p }b + \brak{p - q }c = 0.$$
 \item Two APs have the same common difference. The difference between their 100th terms is 100,  what is the difference between their 1000th terms?
 \item Find the sum of odd integers from 1 to 2001.
 \item If $\frac{a^n+b^n}{a^{n-1}+b^{n-1}}$ is the AM  between $a$ and $b$,  then find the value of $n$.
-\item Find the sum of all two digit numbers which when divided by 4,  yields 1 as remainder.
+\item Find the sum of all two digit numbers which when divided by 4,  yield 1 as remainder.
 \item A farmer buys a used tractor for Rs 12000. He pays Rs 6000 cash and agrees to pay the balance in annual instalments of Rs 500 plus 12\% interest on the unpaid amount. How much will the tractor cost him?
 \item Shyam Anand buys a scooter for Rs 22000. He pays Rs 4000 cash and agrees to
 pay the balance in annual instalment of Rs 1000 plus 10\% interest on the unpaid

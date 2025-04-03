@@ -1,0 +1,47 @@
+\begin{enumerate}[label=\thesubsection.\arabic*,ref=\thesubsection.\theenumi]
+	\item the $n^{th}$ term of a GP is given by 
+\begin{align}
+	\label{eq:gp-nthterm}
+	a_n = a_0r^n, n = 0,1,2, \dots 
+\end{align}
+where 
+\begin{align}
+	r = \frac{a_{n+1}}{a_n}
+\end{align}
+		is defined to be the {\em common ratio}.
+\item Find the sum to $n$ terms of the series
+$a_n = 2^n$
+	\\
+	\solution
+	Let
+\begin{align}
+	\label{eq:gp-sum10}
+	S = 1 + 2 + 2^2 + 2^3 + 2^4
+\end{align}
+Mulitpying the sum in
+	\eqref{eq:gp-sum10}
+	as
+\begin{align}
+	\label{eq:gp-sum10-rev}
+	2S =  2 + 2^2 + 2^3 + 2^4+ 2^5
+\end{align}
+and  subtracting
+	\eqref{eq:gp-sum10}
+	from
+	\eqref{eq:gp-sum10-rev},
+\begin{align}
+	\label{eq:gp-sum10-add}
+	S = 2^5 - 1
+\end{align}
+In general, 
+\begin{align}
+	S_{n} = 2^{n}-1
+\end{align}
+\item The sum of a GP is 
+\begin{align}
+	S_n &= \sum_{k=0}^{n}a_k  
+	\\
+	&= a_0\brak{\frac{1-r^{n+1}}{1-r}}
+	\label{eq:gp-sumn}
+\end{align}
+\end{enumerate}

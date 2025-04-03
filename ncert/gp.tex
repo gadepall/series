@@ -1,18 +1,48 @@
 \begin{enumerate}[label=\thesubsection.\arabic*.,ref=\thesubsection.\theenumi]
 \item Find the $20^{th}$ and $n^{th}$ terms of the GP: $\frac{5}{2}, \frac{5}{4}, \frac{5}{8},\dots, $
+	\\
+	\solution
+\begin{align}
+	a_0 &= \frac{5}{2}, r = \frac{1}{2}
+	\\
+	\implies a_{19} &=\frac{5}{2}\brak{\frac{1}{2}}^{19}=\frac{5}{2^{20}}
+	\\
+	a_{n-1} &= \frac{5}{2^n}
+\end{align}
+using
+	\eqref{eq:gp-nthterm}.
 \item The $5^{th}$, $8^{th}$ and $11^{th}$ terms of a GP  are $p, q$ and $s$, respectively. Show that 
 $q^2 = ps$.
 \item The $4^{th}$ term of a GP  is square of its second term, and the first term is -3. Determine its $7^{th}$ term.
-\item Find the sum to $n$ terms of the following series
-\begin{enumerate}
-\item $a_n = 2^n$
-\item $n^2 + 2^n$
-\end{enumerate}
+	\\
+	\solution  From the given information, 
+\begin{align}
+	a_3 &= a_1^2, a_0 = -3
+	\\
+	\implies a_0r^3&= a_0^2r^2
+	\\
+	\text{or, } r &= a_0
+	\\
+	\therefore a_6 &= a_0^7= \brak{-3}^7
+\end{align}
 \item Which term of the following sequences
 \begin{enumerate}
-	\item 2, 2, $\sqrt{2}$, 4,\dots,  is 128 ?
+	\item 2, 2 $\sqrt{2}$, 4,\dots,  is 128 ?
 	\item $\sqrt{3}, 3, 3\sqrt{3},\dots,$  is 729?
 	\item $\frac{1}{3}, \frac{1}{9}, \frac{1}{27}, \dots,$  is $\frac{1}{19683}$?
+\end{enumerate}
+	\solution
+\begin{enumerate}
+	\item 
+\begin{align}
+	a_0&= 2, r = \sqrt{2}
+	\\
+	a_n &= a_0r^n = 128
+	\\
+		\implies 2\brak{\sqrt{2}}^n &= 128
+		\\
+		\text{or, } n &= 2\brak{\frac{\log 128}{\log 2}-1}=12
+\end{align}
 \end{enumerate}
 \item For what values of $x$, the numbers $-\frac{2}{7}, x, -\frac{7}{2}$ are in GP?
 \\
@@ -22,8 +52,34 @@ $q^2 = ps$.
 \item $1, -a, a^2, -a^2, a^3,\dots,  n$ terms $\brak{a \neq -1}$.
 \item $x^3, x^5, x^7,\dots,  n$ terms $\brak{x \neq \pm 1}$.
 \item Evaluate $$\sum _{k=1}^{11} \brak{2 + 3^k}.$$
+	\\
+	\solution  The summation can be expressed as
+\begin{align}
+\sum _{k=1}^{11} 2 +\sum _{k=1}^{11} 3^k
+	=2\times 11 +\sum _{k=0}^{10} 3^{k+1}
+	\\
+	=22+3\sum _{k=0}^{10} 3^{k}=22+3\brak{\frac{3^{11}-1}{2}}
+\end{align}
 \item The sum of first three terms of a GP  is $\frac{39}{10}$ and their product is 1. Find the 
 common ratio and the terms.
+	\\
+	\solution
+\begin{align}
+	a_0\brak{1+r+r^2}=\frac{39}{10}
+	\\
+	a_0^3r^3=1 \implies a_0r = 1
+	\\
+	\therefore
+	{10}\brak{1+r+r^2}={39}r
+\end{align}
+yielding the quadratic
+\begin{align}
+	{10}r^2-29r + 10=0
+	\\
+	\implies \brak{5r - 2}\brak{2r-5}=0
+	\text{or, }
+	r = \frac{5}{2},\frac{2}{5}
+\end{align}
 \item How many terms of GP  3, $3^2, 3^3$, \dots,  are needed to give the sum 120?
 \item The sum of first three terms of a GP  is 16 and the sum of the next three terms is 128. Determine the first term, the common ratio and the sum to $n$ terms of the GP 
 \item Given a GP  with $a = 729$ and $7^{th}$ term 64, determine $S_7$.
@@ -68,7 +124,7 @@ mail one letter. Find the amount spent on the postage when $8^{th}$ set of lette
 mailed. 
 \item A manufacturer reckons that the value of a machine,  which costs him Rs. 15625,  will depreciate each year by 20\%. Find the estimated value at the end of 5 years. 
 \item 150 workers were engaged to finish a job in a certain number of days. 4 workers dropped out on second day,  4 more workers dropped out on third day and so on.It took 8 more days to finish the work. Find the number of days in which the work was completed.
-	\item Find the $n^{th}$ and $n^{th}$ terms of the GP: $5, 25, 125, \dots$
+	\item Find the $10^{th}$ and $n^{th}$ and  terms of the GP: $5, 25, 125, \dots$
 	\item Which term of the GP: $2, 8, 32, \dots $ upto $n$ terms is 131072.
 	\item In a GP the $3^{rd}$ term is 24 and the $6^{th}$ term is 192.  Find the $10^{th}$ term.
 	\item Find the sum of the first $n$ terms and the sum of the first 5 terms of the series 
