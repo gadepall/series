@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Termux) (preloaded format=pdflatex 2024.4.5)  3 APR 2025 23:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Termux) (preloaded format=pdflatex 2024.4.5)  3 APR 2025 23:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1954,7 +1954,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [29]
-Underfull \hbox (badness 3690) in paragraph at lines 149--150
+Underfull \hbox (badness 3690) in paragraph at lines 160--161
 []\OT1/txr/m/n/10 If the $\OML/txmi/m/it/10 p[]; q[]; r[]$ \OT1/txr/m/n/10 and 
 $\OML/txmi/m/it/10 s[]$ \OT1/txr/m/n/10 terms of an AP are in GP, then show tha
 t
@@ -1978,13 +1978,13 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 6FAE7C89A10CB4E8378F9F0DC3DD5E42;1242.
  ) 
 Here is how much of TeX's memory you used:
- 53904 strings out of 474104
- 1283089 string characters out of 5729886
- 1950493 words of memory out of 5000000
+ 53907 strings out of 474104
+ 1283131 string characters out of 5729886
+ 1951493 words of memory out of 5000000
  74522 multiletter control sequences out of 15000+600000
  628063 words of font info for 176 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 109i,13n,109p,1194b,1225s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 109i,13n,109p,1194b,1286s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </data/data/com.termux/files/usr/share/texlive/2024/texmf-dist/fonts/type1/pu
 blic/txfonts/rtxmi.pfb></data/data/com.termux/files/usr/share/texlive/2024/texm
 f-dist/fonts/type1/public/txfonts/rtxr.pfb></data/data/com.termux/files/usr/sha
@@ -2000,10 +2000,10 @@ b></data/data/com.termux/files/usr/share/texlive/2024/texmf-dist/fonts/type1/ur
 w/times/utmb8a.pfb></data/data/com.termux/files/usr/share/texlive/2024/texmf-di
 st/fonts/type1/urw/times/utmr8a.pfb></data/data/com.termux/files/usr/share/texl
 ive/2024/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (38 pages, 1021600 bytes).
+Output written on main.pdf (38 pages, 1021976 bytes).
 PDF statistics:
- 1449 PDF objects out of 1728 (max. 8388607)
- 1343 compressed objects within 14 object streams
- 940 named destinations out of 1000 (max. 500000)
+ 1453 PDF objects out of 1728 (max. 8388607)
+ 1347 compressed objects within 14 object streams
+ 943 named destinations out of 1000 (max. 500000)
  248 words of extra memory for PDF output out of 10000 (max. 10000000)
 
