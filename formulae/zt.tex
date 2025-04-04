@@ -1,0 +1,188 @@
+\begin{enumerate}[label=\thesubsection.\arabic*,ref=\thesubsection.\theenumi]
+\item 
+	The $Z$-transform of $p(n)$ is defined as
+\begin{align}
+P(z) = \sum_{n=-\infty}^{\infty}p(n)z^{-n}
+\label{eq:ztrans}
+\end{align}
+\item If 
+\begin{align}
+	p(n) &= p_1(n)* p_2(n),
+	\\
+	P(z)&=P_1(z)P_2(z)
+\label{eq:prodz}
+\end{align}
+\item 
+\begin{align}
+	nx(n) \system{Z} -zX^{\prime}(z)
+\label{eq:xzder}
+\end{align}
+From \eqref{eq:xzder}
+\begin{align}
+\implies    n u\brak{n} & \system{Z} \frac{z^{-1}}{\brak{1-z^{-1}}^2} ,   \abs{z} >1 \label{eq:11.9.5.26.2}\\
+    \implies     n^2 u\brak{n} & \system{Z} \frac{z^{-1}\brak{z^{-1}+1}}{\brak{1-z^{-1}}^3} ,  \abs{z} > 1\label{eq:11.9.5.26.3}\\
+    \implies     n^3 u\brak{n} & \system{Z} \frac{z^{-1}\brak{1+4z^{-1}+z^{-2}}}{\brak{1-z^{-1}}^4} ,   \abs{z} >1\label{eq:11.9.5.26.4} \\
+    \implies   n^4 u\brak{n} & \system{Z} \frac{z^{-1}\brak{1+11z^{-1}+11z^{-2}+z^{-3}}}{\brak{1-z^{-1}}^5}\label{eq:11.9.5.26.5}\\ &  \text{where}  \abs{z} >1\notag 
+\end{align} 
+\item 
+\begin{align}
+	x(n-k) &\system{Z} z^{-k}X(z)
+\label{eq:shiftk}
+\end{align}
+Using \eqref{eq:shiftk}:
+ \begin{align}
+         nu\brak{n-1}&\system{Z} z\frac{2z^{-2}}{\brak{1-z^{-1}}^2}
+    \end{align}
+ Now , 
+    \begin{align}
+         \frac{\brak{n-1}}{2}u\brak{n-2} & \system{Z} \frac{z^{-2}}{\brak{1-z^{-1}}^2} \\
+         \frac{\brak{n-1}\brak{n-2}}{6}u\brak{n-3}&\system{Z} \frac{z^{-3}}{\brak{1-z^{-1}}^3}\\
+         \vdots \notag \\
+          \frac{\brak{n-1}\brak{n-2}\ldots \brak{n-k+1}}{\brak{k-1}!}u\brak{n-k}&\system{Z} \frac{z^{-k}}{\brak{1-z^{-1}}^k}\label{eq:11.9.5.26.8}
+    \end{align}
+\begin{align}
+    \implies    Z^{-1}\left[\frac{z^{-2}}{\brak{1-z^{-1}}^2}\right]&=\brak{n-1}u\brak{n-1}\label{eq:11.9.5.26.9} \\
+     \implies     Z^{-1}\left[\frac{z^{-3}}{\brak{1-z^{-1}}^3}\right]&=\frac{\brak{n-1}\brak{n-2}}{2}u\brak{n-1}\label{eq:11.9.5.26.10} \\
+    \implies      Z^{-1}\left[\frac{z^{-4}}{\brak{1-z^{-1}}^4}\right]&=\frac{\brak{n-1}\brak{n-2}\brak{n-3}}{6}u\brak{n-1}\label{eq:11.9.5.26.11} \\
+    \implies      Z^{-1}\left[\frac{z^{-5}}{\brak{1-z^{-1}}^5}\right]&=\frac{\brak{n-1}\brak{n-2}\brak{n-3}\brak{n-4}}{24}\label{eq:11.9.5.26.12}\\ &u\brak{n-1} \notag 
+    \end{align}
+\item For a Geometric progression 
+\begin{align}
+	       \label{eq:gpn}
+	x\brak{n} &=x\brak{0}r^nu\brak{n},
+	\\
+         \implies      X\brak{z} &= \sum_{n=-\infty}^{\infty}x\brak{n}z^{-n}
+               =\sum_{n=0}^{\infty}x\brak{0}r^nz^{-n}\\
+                &=\sum_{n=0}^{\infty}x\brak{0}\brak{rz^{-1}}^n\\
+               &= \frac{x\brak{0}}{1-rz^{-1}}, \quad \abs{z}>\abs{r} 
+	       \label{eq:gpz}
+\end{align}
+\item 	       Substituting $r = 1$ in \eqref{eq:gpz},
+\begin{align}
+	u(n) \system{Z}	U(z) = 
+                \frac{1}{1-z^{-1}}, \quad \abs{z}>1
+	       \label{eq:uz}
+\end{align}
+\item From 
+\eqref{eq:xzder}
+	       and 
+	       \eqref{eq:uz},
+\begin{align}
+nu(n) &\system{Z}\frac{z^{-1}}{(1-z^{-1})^{2}}, \quad \abs{z} > 1 
+	       \label{eq:uzder}
+\end{align}
+\item For an AP, 
+\begin{align}
+	x(n) &= \sbrak{x(0) + nd} u(n) = x(0)u(n) + dnu(n)  \\
+	\implies X(z) &= \frac{x(0)}{1-z^{-1}} + \frac{dz^{-1}}{(1-z^{-1})^{2}}, \quad \abs{z} > 1 
+	       \label{eq:apz}
+\end{align}
+upon substituting from 
+	       \eqref{eq:uz}
+	       and
+	       \eqref{eq:uzder}.
+\item From 
+	\eqref{eq:conv-sum},  the sum to $n$ terms  of a GP can be expressed as
+\begin{align}
+	y(n) = x(n)*u(n) 
+\end{align}
+		where $x(n)$ is defined in 
+	       \eqref{eq:gpn}.
+From \eqref{eq:prodz}, \eqref{eq:gpz} and \eqref{eq:uz},
+\begin{align}
+	Y\brak{z}&= X\brak{z} U\brak{z}
+	\\
+	&=\brak{\frac{x\brak{0}}{1-rz^{-1}}}\brak{\frac{1}{1-z^{-1}}} \quad \abs{z} > \abs{r} \cap \abs{z}>\abs{1}
+	\\
+	&=\frac{x\brak{0}}{\brak{1-rz^{-1}}\brak{1-z^{-1}}} \quad \abs{z} > \abs{r} 
+\end{align}
+which can be expressed as
+\begin{align}
+	Y\brak{z}&=\frac{x\brak{0}}{r-1}\brak{\frac{r}{1-rz^{-1}} - \frac{1}{1-z^{-1}}}
+\end{align}
+using partial fractions.  Again, from \eqref{eq:gpz} and \eqref{eq:uz}, the inverse of the above can be expressed as
+\begin{align}
+	y\brak{n}
+	&=x\brak{0}\brak{\frac{r^{n+1}-1}{r-1}}u\brak{n}
+\end{align}
+\item For the AP $x(n)$, the sum of first $n+1$ terms can be expressed as
+\begin{align}
+y(n) &= \sum_{k=0}^{n} x(k)\\
+\implies y(n) &= \sum_{k=-\infty}^{\infty} x(k) u(n-k)\\
+&= x(n) * u(n)
+\end{align}
+Taking the Z-transform on both sides, and substituting \eqref{eq:apz} and \eqref{eq:uz},
+\begin{align}
+Y(z) &= X(z) U(z)\\
+\implies Y(z) &= \brak{\frac{x(0)}{1-z^{-1}} + \frac{dz^{-1}}{(1-z^{-1})^{2}}}\frac{1}{1-z^{-1}} \quad \abs{z} > 1 \\
+&= \frac{x(0)}{({1-z^{-1}})^2} + \frac{dz^{-1}}{(1-z^{-1})^{3}}, \quad \abs{z} > 1 \label{eq:APSum}
+\end{align}
+\item From 
+\eqref{eq:shiftk} and
+	       \eqref{eq:uzder},
+\begin{align}
+(n+1) u(n) &\system{Z} \frac{1}{({1-z^{-1}})^2}, \quad \abs{z} > 1
+	       \label{eq:uzder-shift},
+\end{align}
+From  \eqref{eq:uzder-shift} and \eqref{eq:xzder},
+\begin{align}
+n(n+1) u(n) &\system{Z} \frac{z^{-1}}{({1-z^{-1}})^3}, \quad \abs{z} > 1
+	       \label{eq:uzder-der},
+\end{align}
+	       
+\item Taking the inverse Z-transform of \eqref{eq:APSum},
+\begin{align}
+y(n) &= x(0)\sbrak{(n + 1)u(n)} + \frac{d}{2}\sbrak{n(n + 1)u(n)}\\
+&= \frac{n+1}{2}\cbrak{2x(0) + nd}u(n)
+\end{align}
+
+
+\item
+	\iffalse
+\begin{table}[ht]
+\input{ncert-maths/11/9/9/4/tables/table_1.2}
+\end{table}
+\fi
+\begin{align}
+	%\label{Z_trans_pair}\\
+	\delta\brak{n} &\system{Z} 1 \\
+	\delta\brak{n+k} &\system{Z}z^{k} ,\forall k\in \mathbb{R} \label{11027_delta_func}
+\end{align}
+\begin{align}
+        \log\brak{1-x} = -x - \frac{x^2}{2} - \frac{x^3}{3}-\frac{x^4}{4}- \ldots \label{11027_log_expansion}
+\end{align}
+Let $x\brak{n}$ and $w\brak{n}$ be some expression as described in the table in discrete time domain, whose $Z$ transform, $X\brak{z}$ and $W\brak{z}$ respectively, shall be obtained for future reference.\\
+\begin{align}
+    \notag \text{For }  x\brak{n} = \frac{1}{n+c} &u\brak{n},\forall c \geq 2,c \in \mathbb{N}\\
+    X\brak{z} &= \sum_{n= -\infty}^{n= +\infty} x\brak{n}z^{-n}\\
+    &=\sum_{n = 0}^{n = +\infty} \frac{1}{n+c}z^{-n}\\
+    &= z^c\sum_{n = 0}^{n = +\infty} \frac{1}{n+c}z^{-\brak{n+c}}
+\end{align}
+Using, \eqref{11027_log_expansion}
+\begin{align}
+    X\brak{z}&= z^c \biggl(-\log\brak{1-z^{-1}}- z^{-1}\notag\\& -\frac{z^{-2}}{2}-\frac{z^{-3}}{3} - \ldots -\frac{z^{-(c-1)}}{c-1} \biggr)\ \forall c \geq 2, c \in \mathbb{N} \label{11027_when_c_not_1}
+\end{align} 
+
+\begin{align}
+	\notag \text{For } w\brak{n} = \frac{1}{n+1}&u\brak{n},\\
+	W\brak{z} &=\sum_{n= -\infty}^{n= +\infty} w\brak{n}z^{-n}\\
+	&= \sum_{n = 0}^{n = +\infty} \frac{1}{n+1}z^{-n}\\
+	&= z\sum_{n = 0}^{n = +\infty} \frac{1}{n+1}z^{-\brak{n+1}} 
+\end{align}
+Using \eqref{11027_log_expansion},
+\begin{align}
+	W\brak{z}&= -z\log\brak{1-z^{-1}} \label{11027_when_c_equals_1}	
+\end{align}
+\\
+Let $D\brak{z}$ be some expression as described in the table in $Z$ domain, whose inverse $Z$ transform, $d\brak{n}$ shall be obtained for future reference.\\
+
+\begin{align}
+	\notag \text{For } D\brak{z}&= z^{k}\log\brak{1-z^{-1}} \forall k \geq 1, k\in \mathbb{Z}\\
+	D\brak{z}&= \brak{-z^{k-1} - \frac{1}{2}z^{k-2} - \frac{1}{3}z^{k-3} - \frac{1}{4}z^{k-4} - \ldots}
+\end{align}
+Using \eqref{11027_delta_func},
+\begin{align}
+	d\brak{n} &= \biggl(-\delta\brak{n+k-1}  -\frac{1}{2}\delta\brak{n+k-2}  -\frac{1}{3}\delta\brak{n+k-3} \notag \\ &-\frac{1}{4}\delta\brak{n+k-4} - \ldots - \frac{1}{n+k}\delta\brak{0}-\ldots\biggr)\\
+	&= \frac{-1}{n+k} u\brak{n} \label{11027_eq_log}
+\end{align}
+\end{enumerate}
