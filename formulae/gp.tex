@@ -39,9 +39,15 @@ In general,
 \end{align}
 \item The sum of a GP is 
 \begin{align}
-	S_n &= \sum_{k=0}^{n}a_k  
+	S_n &= \sum_{k=0}^{n-1}a_k  
 	\\
-	&= a_0\brak{\frac{1-r^{n+1}}{1-r}}
+	&= a_0\brak{\frac{1-r^{n}}{1-r}}
 	\label{eq:gp-sumn}
+\end{align}
+\item 
+\begin{align}
+	\lim_{r\to\infty}	S_n = 
+	 \brak{\frac{a_0}{1-r}},\quad \abs{r} < 1
+	\label{eq:gp-sumn-infty}
 \end{align}
 \end{enumerate}

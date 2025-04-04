@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Termux) (preloaded format=pdflatex 2025.4.4)  4 APR 2025 19:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Termux) (preloaded format=pdflatex 2025.4.4)  4 APR 2025 20:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1828,7 +1828,7 @@ Package hyperref Info: Link coloring OFF on input line 20.
 \openout5 = `main.out'.
 
 \c@lstlisting=\count405
-<figs/logo.jpg, id=83, 2537.48pt x 2047.65pt>
+<figs/logo.jpg, id=67, 2537.48pt x 2047.65pt>
 File: figs/logo.jpg Graphic file (type jpg)
 <use figs/logo.jpg>
 Package pdftex.def Info: figs/logo.jpg  used on input line 47.
@@ -1842,48 +1842,48 @@ ist/fonts/enc/dvips/base/8r.enc}
 
  <./figs/logo.jpg>]
 
-[2] (./main.toc
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 2.
-
-
-(/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/tex/latex/jknapl
-tx/ursfs.fd
-File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
-)
-LaTeX Font Info:    Trying to load font information for U+txmia on input line 2
-.
-
-(/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/tex/latex/txfont
-s/utxmia.fd
-File: utxmia.fd 2000/12/15 v3.1
-)
-LaTeX Font Info:    Trying to load font information for U+txsya on input line 2
-.
-
-(/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/tex/latex/txfont
-s/utxsya.fd
-File: utxsya.fd 2000/12/15 v3.1
-)
-LaTeX Font Info:    Trying to load font information for U+txsyb on input line 2
-.
-
-(/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/tex/latex/txfont
-s/utxsyb.fd
-File: utxsyb.fd 2000/12/15 v3.1
-)
-LaTeX Font Info:    Trying to load font information for U+txsyc on input line 2
-.
-
-(/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/tex/latex/txfont
-s/utxsyc.fd
-File: utxsyc.fd 2000/12/15 v3.1
-))
+[2] (./main.toc)
 \tf@toc=\write6
 \openout6 = `main.toc'.
 
 
 
 [3] (./formulae/ap.tex
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 3.
+
+
+(/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/tex/latex/jknapl
+tx/ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+LaTeX Font Info:    Trying to load font information for U+txmia on input line 3
+.
+
+(/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/tex/latex/txfont
+s/utxmia.fd
+File: utxmia.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Trying to load font information for U+txsya on input line 3
+.
+
+(/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/tex/latex/txfont
+s/utxsya.fd
+File: utxsya.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Trying to load font information for U+txsyb on input line 3
+.
+
+(/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/tex/latex/txfont
+s/utxsyb.fd
+File: utxsyb.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Trying to load font information for U+txsyc on input line 3
+.
+
+(/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/tex/latex/txfont
+s/utxsyc.fd
+File: utxsyc.fd 2000/12/15 v3.1
+)
 Underfull \vbox (badness 6592) has occurred while \output is active []
 
 
@@ -1940,12 +1940,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [8]
 
 [9]
-<figs/ap/fig.png, id=321, 476.78125pt x 352.31625pt>
+<figs/ap/fig.png, id=292, 476.78125pt x 352.31625pt>
 File: figs/ap/fig.png Graphic file (type png)
 <use figs/ap/fig.png>
 Package pdftex.def Info: figs/ap/fig.png  used on input line 304.
 (pdftex.def)             Requested size: 273.14647pt x 201.84914pt.
-<figs/ap/fig1.png, id=324, 675.52374pt x 152.57pt>
+<figs/ap/fig1.png, id=295, 675.52374pt x 152.57pt>
 File: figs/ap/fig1.png Graphic file (type png)
 <use figs/ap/fig1.png>
 Package pdftex.def Info: figs/ap/fig1.png  used on input line 314.
@@ -1953,12 +1953,12 @@ Package pdftex.def Info: figs/ap/fig1.png  used on input line 314.
 
 
 [10 <./figs/ap/fig.png>]
-<figs/ap/fig3.png, id=340, 976.64874pt x 181.67876pt>
+<figs/ap/fig3.png, id=311, 976.64874pt x 181.67876pt>
 File: figs/ap/fig3.png Graphic file (type png)
 <use figs/ap/fig3.png>
 Package pdftex.def Info: figs/ap/fig3.png  used on input line 322.
 (pdftex.def)             Requested size: 273.14647pt x 50.81148pt.
-<figs/ap/fig5.png, id=342, 536.0025pt x 240.9pt>
+<figs/ap/fig5.png, id=313, 536.0025pt x 240.9pt>
 File: figs/ap/fig5.png Graphic file (type png)
 <use figs/ap/fig5.png>
 Package pdftex.def Info: figs/ap/fig5.png  used on input line 337.
@@ -1976,7 +1976,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [13]) (./cbse/ap.tex
-<figs/ap/ap.jpg, id=411, 683.55376pt x 148.555pt>
+<figs/ap/ap.jpg, id=382, 683.55376pt x 148.555pt>
 File: figs/ap/ap.jpg Graphic file (type jpg)
 <use figs/ap/ap.jpg>
 Package pdftex.def Info: figs/ap/ap.jpg  used on input line 50.
@@ -1987,7 +1987,7 @@ Underfull \vbox (badness 2903) has occurred while \output is active []
 
 
 [14]
-<figs/ap/Plant.png, id=440, 1361.085pt x 358.33875pt>
+<figs/ap/Plant.png, id=411, 1361.085pt x 358.33875pt>
 File: figs/ap/Plant.png Graphic file (type png)
 <use figs/ap/Plant.png>
 Package pdftex.def Info: figs/ap/Plant.png  used on input line 77.
@@ -2060,6 +2060,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.3.1}
 <to be read again> 
                    \relax 
 l.46 \end{align}
+                
+pdfTeX warning (ext4): destination with the same identifier (name{equation.4.1}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.52 \end{align}
                 ) (./ncert/gp.tex
 pdfTeX warning (ext4): destination with the same identifier (name{equation.1.1}
 ) has been already used, duplicate ignored
@@ -2218,138 +2224,230 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.2.1}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.14 \end{align}
-                
-pdfTeX warning (ext4): destination with the same identifier (name{equation.2.2}
-) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.14 \end{align}
+l.17 \end{align}
                 
 pdfTeX warning (ext4): destination with the same identifier (name{equation.3.1}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.19 \end{align}
+l.22 \end{align}
                 
-pdfTeX warning (ext4): destination with the same identifier (name{equation.3.2}
-) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.26 \end{align}
-                
-pdfTeX warning (ext4): destination with the same identifier (name{equation.3.3}
-) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.26 \end{align}
-                
-pdfTeX warning (ext4): destination with the same identifier (name{equation.3.4}
-) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.26 \end{align}
-                
+
+LaTeX Warning: Reference `eq:xzder' on page 35 undefined on input line 24.
+
+
 pdfTeX warning (ext4): destination with the same identifier (name{equation.4.1}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.31 \end{align}
+l.28 \end{align}
                 
 pdfTeX warning (ext4): destination with the same identifier (name{equation.4.2}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.35     \end{align}
-                    
+l.36 \end{align}
+                
 pdfTeX warning (ext4): destination with the same identifier (name{equation.4.3}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.42     \end{align}
-                    
+l.36 \end{align}
+                
 pdfTeX warning (ext4): destination with the same identifier (name{equation.4.4}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.42     \end{align}
+l.36 \end{align}
+                
+pdfTeX warning (ext4): destination with the same identifier (name{equation.5.1}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.41 \end{align}
+                
+
+LaTeX Warning: Reference `eq:shiftk' on page 35 undefined on input line 42.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{equation.5.2}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.45     \end{align}
+                    
+pdfTeX warning (ext4): destination with the same identifier (name{equation.5.3}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.52     \end{align}
+                    
+pdfTeX warning (ext4): destination with the same identifier (name{equation.5.4}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.52     \end{align}
+                    
+pdfTeX warning (ext4): destination with the same identifier (name{equation.5.5}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.52     \end{align}
                     
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 [35]
-pdfTeX warning (ext4): destination with the same identifier (name{equation.5.1}
-) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.59 \end{align}
-                
-pdfTeX warning (ext4): destination with the same identifier (name{equation.5.2}
-) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.59 \end{align}
-                
-pdfTeX warning (ext4): destination with the same identifier (name{equation.5.3}
-) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.59 \end{align}
-                
-pdfTeX warning (ext4): destination with the same identifier (name{equation.5.4}
-) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.59 \end{align}
-                
+
+LaTeX Warning: Reference `eq:gpz' on page 36 undefined on input line 70.
+
+
 pdfTeX warning (ext4): destination with the same identifier (name{equation.7.1}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.73 \end{align}
+l.75 \end{align}
                 
+
+LaTeX Warning: Reference `eq:xzder' on page 36 undefined on input line 77.
+
+
+LaTeX Warning: Reference `eq:uz' on page 36 undefined on input line 79.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 [36]
 
-LaTeX Warning: Reference `eq:conv-sum' on page 37 undefined on input line 85.
+LaTeX Warning: Reference `eq:uz' on page 37 undefined on input line 91.
+
+
+LaTeX Warning: Reference `eq:uzder' on page 37 undefined on input line 93.
+
+
+LaTeX Warning: Reference `eq:conv-sum' on page 37 undefined on input line 95.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{equation.10.1
 }) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.113 \end{align}
-                 
+l.98 \end{align}
+                
+
+LaTeX Warning: Reference `eq:gpn' on page 37 undefined on input line 100.
+
+
+LaTeX Warning: Reference `eq:prodz' on page 37 undefined on input line 101.
+
+
+LaTeX Warning: Reference `eq:gpz' on page 37 undefined on input line 101.
+
+
+LaTeX Warning: Reference `eq:uz' on page 37 undefined on input line 101.
+
+
 pdfTeX warning (ext4): destination with the same identifier (name{equation.10.2
 }) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.113 \end{align}
+l.108 \end{align}
                  
+
+LaTeX Warning: Reference `eq:gpz' on page 37 undefined on input line 113.
+
+
+LaTeX Warning: Reference `eq:uz' on page 37 undefined on input line 113.
+
+
 pdfTeX warning (ext4): destination with the same identifier (name{equation.11.1
 }) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.126 \end{align}
+l.123 \end{align}
                  
 pdfTeX warning (ext4): destination with the same identifier (name{equation.11.2
 }) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.131 \end{align}
+l.123 \end{align}
                  
+pdfTeX warning (ext4): destination with the same identifier (name{equation.11.3
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.123 \end{align}
+                 
+
+LaTeX Warning: Reference `eq:apz' on page 37 undefined on input line 124.
+
+
+LaTeX Warning: Reference `eq:uz' on page 37 undefined on input line 124.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{equation.11.4
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.129 \end{align}
+                 
+pdfTeX warning (ext4): destination with the same identifier (name{equation.11.5
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.129 \end{align}
+                 
+
+LaTeX Warning: Reference `eq:shiftk' on page 37 undefined on input line 131.
+
+
+LaTeX Warning: Reference `eq:uzder' on page 37 undefined on input line 132.
+
+
+LaTeX Warning: Reference `eq:uzder-shift' on page 37 undefined on input line 13
+7.
+
+
+LaTeX Warning: Reference `eq:xzder' on page 37 undefined on input line 137.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 [37]
-Underfull \hbox (badness 10000) in paragraph at lines 153--155
+
+LaTeX Warning: Reference `eq:APSum' on page 38 undefined on input line 143.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{equation.14.1
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.160 \end{align}
+                 
+pdfTeX warning (ext4): destination with the same identifier (name{equation.14.2
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.160 \end{align}
+                 
+pdfTeX warning (ext4): destination with the same identifier (name{equation.14.3
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.163 \end{align}
+                 
+Underfull \hbox (badness 10000) in paragraph at lines 163--165
 
  []
+
+
+LaTeX Warning: Reference `11027_log_expansion' on page 38 undefined on input li
+ne 171.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -2357,11 +2455,22 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [38]
-Underfull \hbox (badness 10000) in paragraph at lines 175--178
+
+LaTeX Warning: Reference `11027_log_expansion' on page 39 undefined on input li
+ne 182.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--188
 
  []
 
-) (./ncert/zt.tex [39]) (./jee/zt.tex
+
+LaTeX Warning: Reference `11027_delta_func' on page 39 undefined on input line 
+193.
+
+) (./ncert/zt.tex
+
+[39]) (./jee/zt.tex
 
 [40]
 
@@ -2378,17 +2487,26 @@ L3 programming layer <2020/03/25>
 
 LaTeX Warning: There were undefined references.
 
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 6FAE7C89A10CB4E8378F9F0DC3DD5E42;1242.
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: 346E9ABFCC4DF11CE36397AEE86305C0;886
+(rerunfilecheck)             After:  6FAE7C89A10CB4E8378F9F0DC3DD5E42;1242.
  ) 
 Here is how much of TeX's memory you used:
- 55296 strings out of 473197
- 1319849 string characters out of 5701897
- 1893409 words of memory out of 5000000
+ 55298 strings out of 473197
+ 1319890 string characters out of 5701897
+ 1892321 words of memory out of 5000000
  76755 multiletter control sequences out of 15000+600000
  628831 words of font info for 176 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 109i,13n,109p,1194b,1397s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 109i,16n,109p,1194b,1349s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/type1/pu
 blic/txfonts/rtxmi.pfb></data/data/com.termux/files/usr/share/texlive/2025/texm
 f-dist/fonts/type1/public/txfonts/rtxr.pfb></data/data/com.termux/files/usr/sha
@@ -2405,10 +2523,10 @@ blic/txfonts/txsyc.pfb></data/data/com.termux/files/usr/share/texlive/2025/texm
 f-dist/fonts/type1/urw/times/utmb8a.pfb></data/data/com.termux/files/usr/share/
 texlive/2025/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></data/data/com.termux
 /files/usr/share/texlive/2025/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (43 pages, 1040299 bytes).
+Output written on main.pdf (43 pages, 1036524 bytes).
 PDF statistics:
- 1534 PDF objects out of 1728 (max. 8388607)
- 1420 compressed objects within 15 object streams
- 973 named destinations out of 1000 (max. 500000)
- 248 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1488 PDF objects out of 1728 (max. 8388607)
+ 1375 compressed objects within 14 object streams
+ 975 named destinations out of 1000 (max. 500000)
+ 216 words of extra memory for PDF output out of 10000 (max. 10000000)
 
