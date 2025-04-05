@@ -2,6 +2,42 @@
 %
 \item Find the sum to $n$ terms of the series
 $n^2 + 2^n$
+\\
+\solution
+Let
+\begin{align}
+	\label{eq:x-1}
+	x(n) = 
+	n^2u(n)	
+	\\
+	\therefore
+X(z)=
+          \frac{z^{-1}\brak{1+z^{-1}}}{\brak{1-z^{-1}}^3}
+\end{align}
+from
+\eqref{eq:11.9.5.26.3}.
+From
+	\eqref{eq:sumn},
+	\eqref{eq:x-2}
+	and 
+\eqref{eq:prodz},
+	\begin{align}
+		\sum_{k=0}^{n}x_1(k) \system{Z} X_1(z)U(z)
+	\\
+        \sum_{k=1}^{n}n^2   \system{Z}\frac{z^{-1}\brak{1+z^{-1}}}{\brak{1-z^{-1}}^4}
+	\end{align}
+From
+\eqref{eq:11.9.5.26.8}
+\begin{align}
+          \frac{\brak{n-1}\brak{n-2}\brak{n-3}}{3!}u\brak{n-4}&\system{Z} \frac{z^{-4}}{\brak{1-z^{-1}}^4}
+	  \\
+	  \implies
+\sum_{k=1}^{n}n^2   
+=
+          \frac{\brak{n+2}\brak{n+1}\brak{n}}{3!}u\brak{n-1}
+	  +
+          \frac{\brak{n+1}\brak{n}\brak{n-1}}{3!}u\brak{n-2}
+\end{align}
 	\item Find the sum to $n$ terms of the series: $5+11+19+29+41+\dots$
 	\item Find the sum to $n$ terms of the series whos $n^{th}$ term is $n\brak{n+3}$.
 \item Find the sum to $n$ terms of each of the series
