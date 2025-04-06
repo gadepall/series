@@ -10,4 +10,4 @@
 \contentsline {section}{\numberline {3}$Z$ Transform}{35}{section.3}%
 \contentsline {subsection}{\numberline {3.1}Formulae}{35}{subsection.3.1}%
 \contentsline {subsection}{\numberline {3.2}NCERT}{37}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}JEE}{38}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.3}JEE}{39}{subsection.3.3}%
