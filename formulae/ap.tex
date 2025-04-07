@@ -23,20 +23,20 @@ and adding
 \end{align}
 \item The sum of the first $n$ natural numbers is
 \begin{align}
-	S_n &= \sum_{k=1}^{n}k = 1+ 2 + \dots + n
+	\sum_{k=1}^{n}k &= 1+ 2 + \dots + n
 	\\
 	&= \frac{n\brak{n+1}}{2}
 	\label{eq:ap-sumn}
 \end{align}
-\item The $n$th term of an arithmetic progression (AP) is
+\item The $n^{th}$ term of an arithmetic progression (AP) is
 \begin{align}
 	\label{eq:ap-nthterm}
-	a_n = a_0 + nd, \quad n = 0, 1, \dots
+	x(n) = x(0) + nd, \quad n = 0, 1, \dots
 \end{align}
-\item The sum to $n+1$ terms of an AP is given by
+\item 
 \begin{align}
 	\label{eq:ap-nsum}
-	S_n &= \sum_{k=0}^{n}a_k = \frac{n+1}{2}\sbrak{a_0 + \frac{dn}{2}}
+	 \sum_{k=0}^{n}x(k) = \frac{n+1}{2}\brak{x(0) + \frac{dn}{2}}
 \end{align}
 \solution
 From
@@ -45,52 +45,17 @@ From
 	\eqref{eq:ap-nsum},
 \begin{align}
 	\label{eq:ap-nthsum}
-	S_n &= \sum_{k=0}^{n}a_k = 
+	 \sum_{k=0}^{n}x(k) = 
 \sum_{k=0}^{n}
-	 \brak{a_0 + kd} 
+	 \brak{x(0) + kd} 
 	 \\
 	 &= 
-\sum_{k=0}^{n}a_0 + 
+\sum_{k=0}^{n}x(0) + 
 d\sum_{k=1}^{n}k
-	  = \brak{n+1}a_0 + d\frac{n\brak{n+1}}{2}
+	  = \brak{n+1}x(0) + d\frac{n\brak{n+1}}{2}
 \end{align}
 upon substituting from
 	\eqref{eq:ap-sumn}, yielding
 	\eqref{eq:ap-nthsum}
 	upon simplification.
-\item Determine the AP whose 3rd term is 5 and the 7th term is 9.
-	\\
-	\solution
-\begin{align}
-	a_0+n_1d &= a_2
-	\\
-	a_0+n_2d &= a_6
-	\\
-	\implies 
-	\myvec{
-	1&n_1 
-	\\
-	1&n_2 
-}
-	\myvec{
-a_0
-\\
-	d}
-	\myvec{
-a_2
-\\
-	a_6}
-       \end{align}
-Substituting numerical values 
-yields
-\begin{align}
-	\myvec{1 & 2 \\ 1 & 6}
-	\myvec{a_0 \\ d}
-	&=
-	\myvec{5\\9}
-	\\
-	\implies \myvec{a_0 \\ d}
-	&=
-	\myvec{3\\1}
-\end{align}
 \end{enumerate}

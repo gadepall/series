@@ -1,4 +1,39 @@
 \begin{enumerate}[label=\thesubsection.\arabic*, ref=\thesubsection.\theenumi]
+\item Determine the AP whose 3rd term is 5 and the 7th term is 9.
+	\\
+	\solution
+\begin{align}
+	a_0+n_1d &= a_2
+	\\
+	a_0+n_2d &= a_6
+	\\
+	\implies 
+	\myvec{
+	1&n_1 
+	\\
+	1&n_2 
+}
+	\myvec{
+a_0
+\\
+	d}
+	\myvec{
+a_2
+\\
+	a_6}
+       \end{align}
+Substituting numerical values 
+yields
+\begin{align}
+	\myvec{1 & 2 \\ 1 & 6}
+	\myvec{a_0 \\ d}
+	&=
+	\myvec{5\\9}
+	\\
+	\implies \myvec{a_0 \\ d}
+	&=
+	\myvec{3\\1}
+\end{align}
 %
 \item For the AP 
 $$\frac{3}{2}, \frac{1}{2}, -\frac{1}{2}, -\frac{3}{2}, \dots $$ write the first term $a_0$ and the common difference $d$.
@@ -61,7 +96,7 @@ AP : $10,  7,  4,  \dots,  - 62$.
 \begin{align}
 	a_0 &= -62, d = 3, 
 	\\
-	\implies a_10&=-62+10\times 3 = -32
+	\implies a_{10}&=-62+10\times 3 = -32
 \end{align}
 upon substituting in
 	\eqref{eq:ap-nthterm}.

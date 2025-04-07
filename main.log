@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Termux) (preloaded format=pdflatex 2025.4.4)  6 APR 2025 11:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Termux) (preloaded format=pdflatex 2025.4.4)  6 APR 2025 17:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1883,52 +1883,49 @@ File: utxsyc.fd 2000/12/15 v3.1
 
 
 
-[3] (./formulae/ap.tex
-Underfull \vbox (badness 6592) has occurred while \output is active []
-
-
+[3] (./formulae/ap.tex) (./ncert/ap.tex
 
 [4
 
-]) (./ncert/ap.tex
+
 pdfTeX warning (ext4): destination with the same identifier (name{equation.1.1}
 ) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.9 \end{align}
-               
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.36 \end{align}
+                
+pdfTeX warning (ext4): destination with the same identifier (name{equation.1.2}
+) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.36 \end{align}
+                
+pdfTeX warning (ext4): destination with the same identifier (name{equation.1.3}
+) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.36 \end{align}
+                ]
 pdfTeX warning (ext4): destination with the same identifier (name{equation.2.1}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.28 \end{align}
+l.44 \end{align}
                 
-pdfTeX warning (ext4): destination with the same identifier (name{equation.2.2}
+pdfTeX warning (ext4): destination with the same identifier (name{equation.3.1}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.28 \end{align}
-                
-pdfTeX warning (ext4): destination with the same identifier (name{equation.4.1}
-) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.48 \end{align}
-                
-pdfTeX warning (ext4): destination with the same identifier (name{equation.4.2}
-) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.48 \end{align}
-                
-pdfTeX warning (ext4): destination with the same identifier (name{equation.4.3}
-) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.48 \end{align}
+l.63 \end{align}
                 
 
-[5]
+[5
+pdfTeX warning (ext4): destination with the same identifier (name{equation.1.4}
+) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.96 \begin{align}
+                  ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1940,28 +1937,28 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [8]
 
 [9]
-<figs/ap/fig.png, id=321, 476.78125pt x 352.31625pt>
+<figs/ap/fig.png, id=322, 476.78125pt x 352.31625pt>
 File: figs/ap/fig.png Graphic file (type png)
 <use figs/ap/fig.png>
-Package pdftex.def Info: figs/ap/fig.png  used on input line 304.
+Package pdftex.def Info: figs/ap/fig.png  used on input line 339.
 (pdftex.def)             Requested size: 273.14647pt x 201.84914pt.
-<figs/ap/fig1.png, id=324, 675.52374pt x 152.57pt>
+<figs/ap/fig1.png, id=325, 675.52374pt x 152.57pt>
 File: figs/ap/fig1.png Graphic file (type png)
 <use figs/ap/fig1.png>
-Package pdftex.def Info: figs/ap/fig1.png  used on input line 314.
+Package pdftex.def Info: figs/ap/fig1.png  used on input line 349.
 (pdftex.def)             Requested size: 273.14647pt x 61.69273pt.
 
 
 [10 <./figs/ap/fig.png>]
-<figs/ap/fig3.png, id=340, 976.64874pt x 181.67876pt>
+<figs/ap/fig3.png, id=341, 976.64874pt x 181.67876pt>
 File: figs/ap/fig3.png Graphic file (type png)
 <use figs/ap/fig3.png>
-Package pdftex.def Info: figs/ap/fig3.png  used on input line 322.
+Package pdftex.def Info: figs/ap/fig3.png  used on input line 357.
 (pdftex.def)             Requested size: 273.14647pt x 50.81148pt.
-<figs/ap/fig5.png, id=342, 536.0025pt x 240.9pt>
+<figs/ap/fig5.png, id=343, 536.0025pt x 240.9pt>
 File: figs/ap/fig5.png Graphic file (type png)
 <use figs/ap/fig5.png>
-Package pdftex.def Info: figs/ap/fig5.png  used on input line 337.
+Package pdftex.def Info: figs/ap/fig5.png  used on input line 372.
 (pdftex.def)             Requested size: 273.14647pt x 122.7618pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -2025,47 +2022,29 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.1.1}
                    \relax 
 l.6 \end{align}
                
-pdfTeX warning (ext4): destination with the same identifier (name{equation.1.2}
-) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.10 \end{align}
-                
 pdfTeX warning (ext4): destination with the same identifier (name{equation.2.1}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.20 \end{align}
+l.17 \end{align}
                 
 pdfTeX warning (ext4): destination with the same identifier (name{equation.2.2}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.27 \end{align}
-                
-pdfTeX warning (ext4): destination with the same identifier (name{equation.2.3}
-) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.35 \end{align}
-                
-pdfTeX warning (ext4): destination with the same identifier (name{equation.2.4}
-) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.39 \end{align}
+l.24 \end{align}
                 
 pdfTeX warning (ext4): destination with the same identifier (name{equation.3.1}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.46 \end{align}
+l.38 \end{align}
                 
 pdfTeX warning (ext4): destination with the same identifier (name{equation.4.1}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.52 \end{align}
+l.44 \end{align}
                 ) (./ncert/gp.tex
 pdfTeX warning (ext4): destination with the same identifier (name{equation.1.1}
 ) has been already used, duplicate ignored
@@ -2085,8 +2064,6 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.1.3}
                    \relax 
 l.11 \end{align}
                 
-
-[25]
 pdfTeX warning (ext4): destination with the same identifier (name{equation.3.1}
 ) has been already used, duplicate ignored
 <to be read again> 
@@ -2099,6 +2076,20 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.3.2}
                    \relax 
 l.27 \end{align}
                 
+pdfTeX warning (ext4): destination with the same identifier (name{equation.3.3}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.27 \end{align}
+                
+pdfTeX warning (ext4): destination with the same identifier (name{equation.3.4}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.27 \end{align}
+                
+
+[25]
 pdfTeX warning (ext4): destination with the same identifier (name{equation.4.1}
 ) has been already used, duplicate ignored
 <to be read again> 
@@ -2117,24 +2108,6 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.4.3}
                    \relax 
 l.45 \end{align}
                 
-pdfTeX warning (ext4): destination with the same identifier (name{equation.4.4}
-) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.45 \end{align}
-                
-pdfTeX warning (ext4): destination with the same identifier (name{equation.10.1
-}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.62 \end{align}
-                
-pdfTeX warning (ext4): destination with the same identifier (name{equation.10.2
-}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.62 \end{align}
-                
 pdfTeX warning (ext4): destination with the same identifier (name{equation.11.1
 }) has been already used, duplicate ignored
 <to be read again> 
@@ -2147,23 +2120,11 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.11.2
                    \relax 
 l.74 \end{align}
                 
-pdfTeX warning (ext4): destination with the same identifier (name{equation.11.3
-}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.74 \end{align}
-                
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 [26]
-pdfTeX warning (ext4): destination with the same identifier (name{equation.11.4
-}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.82 \end{align}
-                
 Underfull \hbox (badness 7722) in paragraph at lines 89--90
 []\OT1/txr/m/n/10 Show that the prod-ucts of the cor-re-spond-ing terms of the 
 se-quences
@@ -2267,11 +2228,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [35]
-pdfTeX warning (ext4): destination with the same identifier (name{equation.7.1}
+pdfTeX warning (ext4): destination with the same identifier (name{equation.8.1}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.63 \end{align}
+l.68 \end{align}
                 
 pdfTeX warning (ext4): destination with the same identifier (name{equation.10.1
 }) has been already used, duplicate ignored
@@ -2297,11 +2258,29 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.11.2
                    \relax 
 l.93 \end{align}
                 
+pdfTeX warning (ext4): destination with the same identifier (name{equation.12.1
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.99 	\end{align}
+                 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[36]) (./ncert/zt.tex
+[36]
+pdfTeX warning (ext4): destination with the same identifier (name{equation.12.2
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.106 \end{align}
+                 
+pdfTeX warning (ext4): destination with the same identifier (name{equation.12.3
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.106 \end{align}
+                 ) (./ncert/zt.tex
 pdfTeX warning (ext4): destination with the same identifier (name{equation.1.1}
 ) has been already used, duplicate ignored
 <to be read again> 
@@ -2326,6 +2305,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.1.4}
                    \relax 
 l.27 	\end{align}
                  
+pdfTeX warning (ext4): destination with the same identifier (name{equation.1.5}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.44 \end{align}
+                
 pdfTeX warning (ext4): destination with the same identifier (name{equation.2.1}
 ) has been already used, duplicate ignored
 <to be read again> 
@@ -2339,18 +2324,6 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.2.2}
 l.54 		\end{align}
                   
 pdfTeX warning (ext4): destination with the same identifier (name{equation.2.3}
-) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.65 		\end{align}
-                  
-pdfTeX warning (ext4): destination with the same identifier (name{equation.2.4}
-) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.65 		\end{align}
-                  
-pdfTeX warning (ext4): destination with the same identifier (name{equation.2.5}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -2379,8 +2352,8 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 6FAE7C89A10CB4E8378F9F0DC3DD5E42;1242.
  ) 
 Here is how much of TeX's memory you used:
- 55278 strings out of 473197
- 1319598 string characters out of 5701897
+ 55279 strings out of 473197
+ 1319611 string characters out of 5701897
  1894091 words of memory out of 5000000
  76749 multiletter control sequences out of 15000+600000
  628831 words of font info for 176 fonts, out of 8000000 for 9000
@@ -2402,10 +2375,10 @@ blic/txfonts/txsyc.pfb></data/data/com.termux/files/usr/share/texlive/2025/texm
 f-dist/fonts/type1/urw/times/utmb8a.pfb></data/data/com.termux/files/usr/share/
 texlive/2025/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></data/data/com.termux
 /files/usr/share/texlive/2025/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (42 pages, 1035678 bytes).
+Output written on main.pdf (42 pages, 1035157 bytes).
 PDF statistics:
- 1503 PDF objects out of 1728 (max. 8388607)
- 1391 compressed objects within 14 object streams
- 961 named destinations out of 1000 (max. 500000)
+ 1504 PDF objects out of 1728 (max. 8388607)
+ 1392 compressed objects within 14 object streams
+ 962 named destinations out of 1000 (max. 500000)
  248 words of extra memory for PDF output out of 10000 (max. 10000000)
 
