@@ -1,20 +1,17 @@
 \begin{enumerate}[label=\thesubsection.\arabic*,ref=\thesubsection.\theenumi]
-	\item the $n^{th}$ term of a GP is given by 
+	\item The $n^{th}$ term of a GP is given by 
 \begin{align}
 	\label{eq:gp-nthterm}
 	x(n)= x(0)r^n, n = 0,1,2, \dots 
 \end{align}
 where $r$
 		is defined to be the {\em common ratio}.
-\item Find the sum to $n$ terms of the series
-$x(n) = 2^n$
-	\\
-	\solution
-	Let
+\item Find the sum 
 \begin{align}
 	\label{eq:gp-sum10}
 	S = 1 + 2 + 2^2 + 2^3 + 2^4
 \end{align}
+	\solution
 Mulitpying the sum in
 	\eqref{eq:gp-sum10}
 	as
@@ -32,13 +29,13 @@ and  subtracting
 \end{align}
 \item The sum of a GP is 
 \begin{align}
-	 \sum_{k=0}^{n-1}x(k)  
+	 y(n)=\sum_{k=0}^{n-1}x(k)  
 	= x(0)\brak{\frac{1-r^{n}}{1-r}}
 	\label{eq:gp-sumn}
 \end{align}
-\item 
+\item  For an infinite GP, 
 \begin{align}
-	\lim_{r\to\infty}	S_n = 
+	\lim_{r\to\infty}	y(n) = 
 	 \brak{\frac{x(0)}{1-r}},\quad \abs{r} < 1
 	\label{eq:gp-sumn-infty}
 \end{align}
