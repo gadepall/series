@@ -1,13 +1,15 @@
 \contentsline {section}{\numberline {1}Arithmetic Progression}{4}{section.1}%
 \contentsline {subsection}{\numberline {1.1}Formulae}{4}{subsection.1.1}%
 \contentsline {subsection}{\numberline {1.2}NCERT}{4}{subsection.1.2}%
-\contentsline {subsection}{\numberline {1.3}CBSE}{14}{subsection.1.3}%
-\contentsline {subsection}{\numberline {1.4}JEE}{20}{subsection.1.4}%
-\contentsline {section}{\numberline {2}Geometric Progression}{25}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Formulae}{25}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}NCERT}{25}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}JEE}{31}{subsection.2.3}%
-\contentsline {section}{\numberline {3}$Z$ Transform}{35}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Formulae}{35}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}NCERT}{37}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}JEE}{39}{subsection.3.3}%
+\contentsline {subsection}{\numberline {1.3}CBSE}{13}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}JEE}{19}{subsection.1.4}%
+\contentsline {section}{\numberline {2}Geometric Progression}{24}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Formulae}{24}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}NCERT}{24}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}JEE}{30}{subsection.2.3}%
+\contentsline {section}{\numberline {3}$Z$ Transform}{34}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Formulae}{34}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}NCERT}{36}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}JEE}{38}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Miscellaneous}{41}{section.4}%
+\contentsline {subsection}{\numberline {4.1}NCERT}{41}{subsection.4.1}%
