@@ -6,16 +6,16 @@
 \contentsline {section}{\numberline {2}Geometric Progression}{22}{section.2}%
 \contentsline {subsection}{\numberline {2.1}Formulae}{22}{subsection.2.1}%
 \contentsline {subsection}{\numberline {2.2}NCERT}{23}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}JEE}{25}{subsection.2.3}%
-\contentsline {section}{\numberline {3}$Z$ Transform}{26}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Formulae}{26}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}NCERT}{28}{subsection.3.2}%
+\contentsline {subsection}{\numberline {2.3}JEE}{26}{subsection.2.3}%
+\contentsline {section}{\numberline {3}$Z$ Transform}{27}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Formulae}{27}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}NCERT}{29}{subsection.3.2}%
 \contentsline {subsection}{\numberline {3.3}JEE}{31}{subsection.3.3}%
-\contentsline {section}{\numberline {4}Miscellaneous}{34}{section.4}%
-\contentsline {subsection}{\numberline {4.1}NCERT}{34}{subsection.4.1}%
+\contentsline {section}{\numberline {4}Miscellaneous}{35}{section.4}%
+\contentsline {subsection}{\numberline {4.1}NCERT}{35}{subsection.4.1}%
 \contentsline {subsection}{\numberline {4.2}JEE}{38}{subsection.4.2}%
 \contentsline {section}{\numberline {5}Binomial Theorem}{43}{section.5}%
 \contentsline {subsection}{\numberline {5.1}NCERT}{43}{subsection.5.1}%
 \contentsline {subsection}{\numberline {5.2}JEE}{45}{subsection.5.2}%
-\contentsline {section}{\numberline {6}Others}{49}{section.6}%
-\contentsline {subsection}{\numberline {6.1}JEE}{49}{subsection.6.1}%
+\contentsline {section}{\numberline {6}Others}{50}{section.6}%
+\contentsline {subsection}{\numberline {6.1}JEE}{50}{subsection.6.1}%

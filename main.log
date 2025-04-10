@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Termux) (preloaded format=pdflatex 2025.4.4)  10 APR 2025 15:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Termux) (preloaded format=pdflatex 2025.4.4)  10 APR 2025 15:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2025,6 +2025,8 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.2.2}
                    \relax 
 l.21 \end{align}
                 
+
+[22]
 pdfTeX warning (ext4): destination with the same identifier (name{equation.3.1}
 ) has been already used, duplicate ignored
 <to be read again> 
@@ -2055,11 +2057,6 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.1.3}
                    \relax 
 l.11 \end{align}
                 
-Underfull \vbox (badness 4479) has occurred while \output is active []
-
-
-
-[22]
 pdfTeX warning (ext4): destination with the same identifier (name{equation.2.1}
 ) has been already used, duplicate ignored
 <to be read again> 
@@ -2067,12 +2064,6 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.2.1}
 l.25 \end{align}
                 
 pdfTeX warning (ext4): destination with the same identifier (name{equation.2.2}
-) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.25 \end{align}
-                
-pdfTeX warning (ext4): destination with the same identifier (name{equation.2.3}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -2102,18 +2093,24 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.3.4}
                    \relax 
 l.43 \end{align}
                 
+
+[23
+pdfTeX warning (ext4): destination with the same identifier (name{equation.2.3}
+) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.48 \item 0
+            .15, 0.015, 0.0015,\dots,  20 terms.]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[23]
+[24]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[24]) (./jee/gp.tex
-
-[25])
+[25]) (./jee/gp.tex)
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 102.
@@ -2135,6 +2132,8 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.2.1}
                    \relax 
 l.17 \end{align}
                 
+
+[26]
 pdfTeX warning (ext4): destination with the same identifier (name{equation.3.1}
 ) has been already used, duplicate ignored
 <to be read again> 
@@ -2159,8 +2158,6 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.3.4}
                    \relax 
 l.28 \end{align}
                 
-
-[26]
 pdfTeX warning (ext4): destination with the same identifier (name{equation.4.1}
 ) has been already used, duplicate ignored
 <to be read again> 
@@ -2173,6 +2170,11 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.5.1}
                    \relax 
 l.44 \end{align}
                 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[27]
 pdfTeX warning (ext4): destination with the same identifier (name{equation.8.1}
 ) has been already used, duplicate ignored
 <to be read again> 
@@ -2185,11 +2187,6 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.9.1}
                    \relax 
 l.72     \end{align}
                     
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[27]
 pdfTeX warning (ext4): destination with the same identifier (name{equation.9.2}
 ) has been already used, duplicate ignored
 <to be read again> 
@@ -2226,6 +2223,11 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.12.1
                    \relax 
 l.99 	\end{align}
                  
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[28]
 pdfTeX warning (ext4): destination with the same identifier (name{equation.12.2
 }) has been already used, duplicate ignored
 <to be read again> 
@@ -2262,8 +2264,6 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.1.4}
                    \relax 
 l.27 	\end{align}
                  
-
-[28]
 pdfTeX warning (ext4): destination with the same identifier (name{equation.1.5}
 ) has been already used, duplicate ignored
 <to be read again> 
@@ -2294,7 +2294,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.2.4}
                    \relax 
 l.65 		\end{align}
                   
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 2035) has occurred while \output is active []
 
 
 
@@ -2306,20 +2306,17 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [32]
 
-[33]) (./ncert/misc.tex
+[33]
 
-[34]
+[34]) (./ncert/misc.tex
+
+[35]
 Underfull \hbox (badness 7722) in paragraph at lines 31--32
 []\OT1/txr/m/n/10 Show that the prod-ucts of the cor-re-spond-ing terms of the 
 se-quences
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[35]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -2331,12 +2328,12 @@ $\OML/txmi/m/it/10 s[]$ \OT1/txr/m/n/10 terms of an AP are in GP, then show tha
 t
  []
 
-) (./jee/misc.tex
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[37]
+[37]) (./jee/misc.tex
 
 [38]
 
@@ -2349,9 +2346,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [42]) (./ncert/binom.tex
 
 [43]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 
 [44]) (./jee/binom.tex
 
@@ -2373,9 +2367,9 @@ n pos-i-tive
 
 [47]
 
-[48]) (./jee/exp.tex
+[48]
 
-[49])
+[49]) (./jee/exp.tex)
 
 [50] (./main.aux)
  ***********
@@ -2386,9 +2380,9 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 8E380AAA938A04B79787D738BE3629DF;1937.
  ) 
 Here is how much of TeX's memory you used:
- 55552 strings out of 473197
- 1322224 string characters out of 5701897
- 1895091 words of memory out of 5000000
+ 55564 strings out of 473197
+ 1322332 string characters out of 5701897
+ 1896091 words of memory out of 5000000
  76774 multiletter control sequences out of 15000+600000
  628831 words of font info for 176 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
@@ -2409,10 +2403,10 @@ blic/txfonts/txsyc.pfb></data/data/com.termux/files/usr/share/texlive/2025/texm
 f-dist/fonts/type1/urw/times/utmb8a.pfb></data/data/com.termux/files/usr/share/
 texlive/2025/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></data/data/com.termux
 /files/usr/share/texlive/2025/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (50 pages, 1068663 bytes).
+Output written on main.pdf (50 pages, 1069459 bytes).
 PDF statistics:
- 1850 PDF objects out of 2073 (max. 8388607)
- 1726 compressed objects within 18 object streams
- 1199 named destinations out of 1200 (max. 500000)
+ 1864 PDF objects out of 2073 (max. 8388607)
+ 1740 compressed objects within 18 object streams
+ 1211 named destinations out of 1440 (max. 500000)
  312 words of extra memory for PDF output out of 10000 (max. 10000000)
 
