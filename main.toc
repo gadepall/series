@@ -2,20 +2,20 @@
 \contentsline {subsection}{\numberline {1.1}Formulae}{4}{subsection.1.1}%
 \contentsline {subsection}{\numberline {1.2}NCERT}{4}{subsection.1.2}%
 \contentsline {subsection}{\numberline {1.3}CBSE}{13}{subsection.1.3}%
-\contentsline {subsection}{\numberline {1.4}JEE}{19}{subsection.1.4}%
-\contentsline {section}{\numberline {2}Geometric Progression}{21}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Formulae}{21}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}NCERT}{22}{subsection.2.2}%
+\contentsline {subsection}{\numberline {1.4}JEE}{20}{subsection.1.4}%
+\contentsline {section}{\numberline {2}Geometric Progression}{22}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Formulae}{22}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}NCERT}{23}{subsection.2.2}%
 \contentsline {subsection}{\numberline {2.3}JEE}{25}{subsection.2.3}%
 \contentsline {section}{\numberline {3}$Z$ Transform}{26}{section.3}%
 \contentsline {subsection}{\numberline {3.1}Formulae}{26}{subsection.3.1}%
 \contentsline {subsection}{\numberline {3.2}NCERT}{28}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}JEE}{30}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.3}JEE}{31}{subsection.3.3}%
 \contentsline {section}{\numberline {4}Miscellaneous}{34}{section.4}%
 \contentsline {subsection}{\numberline {4.1}NCERT}{34}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}JEE}{37}{subsection.4.2}%
-\contentsline {section}{\numberline {5}Binomial Theorem}{42}{section.5}%
-\contentsline {subsection}{\numberline {5.1}NCERT}{42}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}JEE}{44}{subsection.5.2}%
+\contentsline {subsection}{\numberline {4.2}JEE}{38}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Binomial Theorem}{43}{section.5}%
+\contentsline {subsection}{\numberline {5.1}NCERT}{43}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}JEE}{45}{subsection.5.2}%
 \contentsline {section}{\numberline {6}Others}{49}{section.6}%
 \contentsline {subsection}{\numberline {6.1}JEE}{49}{subsection.6.1}%
