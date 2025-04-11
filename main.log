@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Termux) (preloaded format=pdflatex 2025.4.4)  11 APR 2025 06:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Termux) (preloaded format=pdflatex 2025.4.4)  11 APR 2025 07:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2019,14 +2019,14 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.2.1}
                    \relax 
 l.13 \end{align}
                 
+
+[22]
 pdfTeX warning (ext4): destination with the same identifier (name{equation.2.2}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.21 \end{align}
                 
-
-[22]
 pdfTeX warning (ext4): destination with the same identifier (name{equation.3.1}
 ) has been already used, duplicate ignored
 <to be read again> 
@@ -2099,8 +2099,8 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.2.3}
 ) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.48 \item 0
-            .15, 0.015, 0.0015,\dots,  20 terms.]
+l.43 \end{align}
+                ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -2110,7 +2110,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[25]) (./jee/gp.tex)
+[25]) (./jee/gp.tex
+
+[26])
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 102.
@@ -2132,8 +2134,6 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.2.1}
                    \relax 
 l.17 \end{align}
                 
-
-[26]
 pdfTeX warning (ext4): destination with the same identifier (name{equation.3.1}
 ) has been already used, duplicate ignored
 <to be read again> 
@@ -2170,9 +2170,6 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.5.1}
                    \relax 
 l.44 \end{align}
                 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 
 [27]
 pdfTeX warning (ext4): destination with the same identifier (name{equation.8.1}
@@ -2347,9 +2344,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [43]
 
-[44]) (./jee/binom.tex
+[44]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[45]
+
+
+[45]) (./jee/binom.tex
 
 [46]
 Underfull \hbox (badness 10000) in paragraph at lines 122--124
@@ -2369,11 +2369,19 @@ n pos-i-tive
 
 [48]
 
-[49]) (./jee/exp.tex
+[49]
+Underfull \hbox (badness 4846) in paragraph at lines 320--323
+[]\OT1/txr/m/n/10 The sum of the co-ef-fi-cients of all even pow-ers of $\OML/t
+xmi/m/it/10 x$ \OT1/txr/m/n/10 in the prod-uct
+ []
 
-[50])
 
-[51] (./main.aux)
+
+[50]) (./jee/exp.tex
+
+[51])
+
+[52] (./main.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2020/03/25>
@@ -2382,9 +2390,9 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 8E380AAA938A04B79787D738BE3629DF;1937.
  ) 
 Here is how much of TeX's memory you used:
- 55596 strings out of 473197
- 1322618 string characters out of 5701897
- 1896090 words of memory out of 5000000
+ 55629 strings out of 473197
+ 1322913 string characters out of 5701897
+ 1895090 words of memory out of 5000000
  76774 multiletter control sequences out of 15000+600000
  628831 words of font info for 176 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
@@ -2405,10 +2413,10 @@ blic/txfonts/txsyc.pfb></data/data/com.termux/files/usr/share/texlive/2025/texm
 f-dist/fonts/type1/urw/times/utmb8a.pfb></data/data/com.termux/files/usr/share/
 texlive/2025/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></data/data/com.termux
 /files/usr/share/texlive/2025/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (51 pages, 1073009 bytes).
+Output written on main.pdf (52 pages, 1077454 bytes).
 PDF statistics:
- 1906 PDF objects out of 2073 (max. 8388607)
- 1781 compressed objects within 18 object streams
- 1243 named destinations out of 1440 (max. 500000)
+ 1949 PDF objects out of 2073 (max. 8388607)
+ 1822 compressed objects within 19 object streams
+ 1276 named destinations out of 1440 (max. 500000)
  312 words of extra memory for PDF output out of 10000 (max. 10000000)
 
