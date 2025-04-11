@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Termux) (preloaded format=pdflatex 2025.4.4)  11 APR 2025 07:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Termux) (preloaded format=pdflatex 2025.4.4)  11 APR 2025 11:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2019,8 +2019,6 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.2.1}
                    \relax 
 l.13 \end{align}
                 
-
-[22]
 pdfTeX warning (ext4): destination with the same identifier (name{equation.2.2}
 ) has been already used, duplicate ignored
 <to be read again> 
@@ -2033,6 +2031,8 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.3.1}
                    \relax 
 l.35 \end{align}
                 
+
+[22]
 pdfTeX warning (ext4): destination with the same identifier (name{equation.4.1}
 ) has been already used, duplicate ignored
 <to be read again> 
@@ -2099,8 +2099,8 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.2.3}
 ) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.43 \end{align}
-                ]
+l.48 \item 0
+            .15, 0.015, 0.0015,\dots,  20 terms.]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -2170,6 +2170,9 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.5.1}
                    \relax 
 l.44 \end{align}
                 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 
 [27]
 pdfTeX warning (ext4): destination with the same identifier (name{equation.8.1}
@@ -2319,18 +2322,18 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [36]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[37]
 Underfull \hbox (badness 3690) in paragraph at lines 79--80
 []\OT1/txr/m/n/10 If the $\OML/txmi/m/it/10 p[]; q[]; r[]$ \OT1/txr/m/n/10 and 
 $\OML/txmi/m/it/10 s[]$ \OT1/txr/m/n/10 terms of an AP are in GP, then show tha
 t
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[37]) (./jee/misc.tex
+) (./jee/misc.tex
 
 [38]
 
@@ -2340,9 +2343,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [41]
 
-[42]) (./ncert/binom.tex
+[42]
 
-[43]
+[43]) (./ncert/binom.tex
 
 [44]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -2352,6 +2355,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [45]) (./jee/binom.tex
 
 [46]
+
+[47]
 Underfull \hbox (badness 10000) in paragraph at lines 122--124
 []\OT1/txr/m/n/10 If $\OML/txmi/m/it/10 C[]$ \OT1/txr/m/n/10 stands for $[]$, t
 hen the sum of the se-ries
@@ -2364,8 +2369,6 @@ n pos-i-tive
  []
 
 
-
-[47]
 
 [48]
 
@@ -2390,9 +2393,9 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 8E380AAA938A04B79787D738BE3629DF;1937.
  ) 
 Here is how much of TeX's memory you used:
- 55629 strings out of 473197
- 1322913 string characters out of 5701897
- 1895090 words of memory out of 5000000
+ 55635 strings out of 473197
+ 1322967 string characters out of 5701897
+ 1896091 words of memory out of 5000000
  76774 multiletter control sequences out of 15000+600000
  628831 words of font info for 176 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
@@ -2413,10 +2416,10 @@ blic/txfonts/txsyc.pfb></data/data/com.termux/files/usr/share/texlive/2025/texm
 f-dist/fonts/type1/urw/times/utmb8a.pfb></data/data/com.termux/files/usr/share/
 texlive/2025/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></data/data/com.termux
 /files/usr/share/texlive/2025/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (52 pages, 1077454 bytes).
+Output written on main.pdf (52 pages, 1079577 bytes).
 PDF statistics:
- 1949 PDF objects out of 2073 (max. 8388607)
- 1822 compressed objects within 19 object streams
- 1276 named destinations out of 1440 (max. 500000)
+ 1956 PDF objects out of 2073 (max. 8388607)
+ 1829 compressed objects within 19 object streams
+ 1282 named destinations out of 1440 (max. 500000)
  312 words of extra memory for PDF output out of 10000 (max. 10000000)
 
